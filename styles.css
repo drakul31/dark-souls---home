@@ -1,0 +1,150 @@
+#home{
+    background-color: rgb(15, 15, 15);
+    background-image: url(https://images.wallpapersden.com/image/download/dark-souls-ii-art-armor_ZmZuZWiUmZqaraWkpJRobWllrWdma2U.jpg);
+    background-size: cover;
+}
+
+#inicio{
+    color: blanchedalmond;
+    position: absolute;
+    top: 250px;
+    left: 250px;
+    font-size: 50px;
+    text-shadow: rgb(168, 166, 3) 4px 2px 4px;
+}
+
+#lore{
+    position: absolute;
+    top: 450px;
+    left: 570px;;
+}
+
+#lore a{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-decoration: none;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-shadow: rgb(217, 255, 0) 2px 1px 2px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+
+#lore a:hover{
+    border: 2px solid white;
+    background-color: white;
+    color: rgb(94, 10, 10);
+    transition: 200ms;
+    border-radius: 10px;
+}
+
+#seguinte{
+    background-color: rgb(15, 15, 15);
+    margin-top: 10px;
+    background-image: url(bosses/R.jpg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+#drip{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+    text-align: center;
+    text-shadow: rgb(168, 166, 3) 4px 2px 4px;
+}
+
+.a{
+    color: rgb(247, 247, 247);
+    font-size: 20px;
+    text-decoration: none;
+    position:absolute;
+    top: 35px;
+    left: 30px;
+}
+
+.a:hover{
+    border: 2px solid white;
+    background-color: white;
+    color: rgb(94, 10, 10);
+    transition: 200ms;
+    border-radius: 10px;
+}
+
+h2{
+    color: blanchedalmond;
+    text-decoration: none;
+    position: absolute;
+    top: 430px;
+    left: 20px;
+}
+
+.bosses{
+    width: 150px;
+    height: 300px; 
+    border: 3px solid rgb(117, 11, 11);  
+    margin-top: 7px;
+    margin-left: 20px;
+    object-fit: cover;
+}
+
+.cv img:h{
+    width: 200px;
+    height: 400px;
+}
+
+.historia{
+    font-size: 20px;
+    margin-top: 10px;
+    color:blanchedalmond;
+    background-size: cover;
+}
+
+.gigante{
+    background-color: rgb(20, 20, 20);
+}
+
+header{
+    text-align: center;
+    background-color: rgb(112, 12, 12);
+    width: 100%;
+    height: 50px;
+}
+
+.info{
+    vertical-align: top;
+    margin-top: 0;
+    display: inline-block;
+    width: 50%;
+    padding: 10px 0 0 80px ;
+}
+
+.historia img{
+    display: inline-block;
+    width: 40%;
+    height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#criadores{
+    position: absolute;
+    top:600px;
+    left: 15px;
+    color: thistle;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+
+
